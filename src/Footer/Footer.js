@@ -37,6 +37,7 @@ const Footer = () => {
                     </div>
                 </div>
             </div>
+            {/* fd */}
             <div className='text-center p-3 container' style={{borderStyle:'solid', borderWidth:'0.1px 0 0 0', borderColor:'GrayText', textAlign:'center'}}>
                 &copy; {new Date().getFullYear()} News |{' '}
                 <a className='text-dark' style={{textDecoration:'none'}}>
