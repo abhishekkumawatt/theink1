@@ -1,0 +1,14 @@
+.privacy-paragraph-header{
+    text-align: center;
+    background-color: rgb(232, 14, 14);
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.privacy-box{
+    border: 1px solid #c0baba;
+    box-shadow: 0 4px 12px rgba(0,0,0, .1);
+    border-radius: 10px;
+    padding: 15px;
+    margin: 4rem 11rem 4rem 11rem;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

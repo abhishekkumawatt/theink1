@@ -1,0 +1,33 @@
+/* .footerlogo img {
+    height: 70px;
+    width: 200px;
+    margin: 2rem 0 0 0;
+} */
+.footerlogo img{
+    margin-left: 6.3rem;
+    height: 4rem;
+}
+.footermain{
+    background-color: rgb(249, 249, 249);
+    padding: 50px 0 20px 0;
+}
+.allfootericons{
+    font-size: larger;
+}
+.footer-logo-text{
+    display: flex;
+    justify-content: space-between;
+}
+.populartext{
+    text-decoration: underline;
+    margin: 0px 500px 0 0;
+}
+.footernavbar{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+    text-decoration: none;
+    
+}
+
+

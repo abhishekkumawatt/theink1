@@ -1,38 +1,120 @@
-.App {
-  text-align: center;
+.theinklogo img{
+  height: 50px;
+  width: 150px;
+  margin: 1rem 0 0 7rem ;
 }
-
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.allheadericons{
+  font-size: large;
 }
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.statebutton{
+  margin: 1rem 0 1rem 7.8rem;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.logobutton{
   display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  justify-content: space-between;
+  background-color: rgb(234, 236, 237);
+  padding-left: 7rem;
 }
-
-.App-link {
-  color: #61dafb;
+.dropdownbutton{
+  margin: 10px 7rem 10px 10px;
+  
 }
+.logonavbar{
+  display: flex;
+  box-shadow: 0 11px 9px -14px;
+}
+.me-auto{
+  font-family:Arial, Helvetica, sans-serif;
+  gap: 20px;
+  font-size: 14px;
+  margin-top: 10px;
+}
+.searchicon{
+  margin: 2rem 0 0 27rem;
+  font-size: large;
+}
+.state1{
+  width: 50%;
+}
+.state2{
+  width: 50%;
+}
+.container{
+  display: flex;
+}
+.state{
+  border-style: solid ;
+  border-width: 2px 0 0 0;
+  border-color: aliceblue;
+}
+.state3{
+  display: flex;
+}
+.state4{
+  display: flex;
+}
+.stateimg1st{
+  margin: 20px 0 0 0px;
+  width: 600px;
+  overflow: hidden;
+}
+ .zoom-image {
+    text-align: center;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .zoom-image:hover {
+    transform: scale(1.2);
+}
+.stateimg2nd{
+  margin: 20px 0 0 30px;
+  width: 290px;
+  overflow: hidden;
+}
+ .zoom-image {
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .zoom-image:hover {
+    transform: scale(1.1);
+  }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+.stateimg3rd{
+  margin: 1.2rem 0 0 1.7rem;
+  width: 370px;
+  overflow: hidden;
+}
+ .zoom-image {
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
   }
-  to {
-    transform: rotate(360deg);
+  
+  .zoom-image:hover {
+    transform: scale(1.1);
+}
+.stateimg4th{
+  margin-left: 1rem;
+  width: 300px;
+  overflow: hidden;
+}
+ .zoom-image {
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
   }
+  
+  .zoom-image:hover {
+    transform: scale(1.1);
+}
+.stateimg5th{
+  width: 300px;
+  overflow: hidden;
+}
+ .zoom-image {
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
+  }
+  
+  .zoom-image:hover {
+    transform: scale(1.1);
 }
