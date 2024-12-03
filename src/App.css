@@ -1,7 +1,7 @@
 .theinklogo img{
   height: 50px;
   width: 150px;
-  margin: 1rem 0 0 7rem ;
+  margin: 0 0 0 4rem ;
 }
 .allheadericons{
   font-size: large;
@@ -30,7 +30,7 @@
   margin-top: 10px;
 }
 .searchicon{
-  margin: 2rem 0 0 27rem;
+ margin: 0 7rem 0 0;
   font-size: large;
 }
 .state1{
